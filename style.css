@@ -1,0 +1,21 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#button
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+ee
+canvas{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+}
